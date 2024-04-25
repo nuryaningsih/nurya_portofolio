@@ -1,3 +1,5 @@
+Hello! Glad to see you here. This is a collection of my personal projects focused on data science that I've worked on while learning.
+
 # Exploring Trends in Video Game Sales
 ## Project Description:
 In this project, we explore a dataset containing information about video game sales from various platforms, genres, and regions. The main goal of the project is to analyze trends in the video game industry over time, understand consumer preferences, and identify factors that contribute to the success of video games.
