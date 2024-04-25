@@ -161,6 +161,54 @@ In conclusion, the project provides valuable insights into user behavior, revenu
 The code for the project is available on Google Colab [here](https://colab.research.google.com/drive/1PuTI643N5dELZDpM3ctF_k19C0b9NdBI#scrollTo=qeguC0oSm9R7).
 
 ---
+## Predicting Customer Churn for Bank Beta
+
+### Description:
+This project aims to develop a predictive model to identify potential churners among Bank Beta's customers. The primary goal is to help the bank proactively retain loyal customers by predicting churn in advance. By leveraging machine learning techniques, we seek to build a robust model that can accurately predict customer churn and provide valuable insights for implementing targeted retention strategies.
+
+### Objectives and Problems:
+The main objective of this project is to build a predictive model with a high F1 score (>0.59) to identify potential churners among bank customers. Additionally, we aim to evaluate the model's performance using the AUC-ROC metric. The key problem we are trying to solve is the need for Bank Beta to reduce customer churn and retain valuable customers. By predicting churn in advance, the bank can implement proactive measures to mitigate churn and enhance customer retention.
+
+### Dataset:
+- The dataset contains information about Bank Beta's customers, including demographic data, account balance, tenure, and whether they exited the bank.
+- [Source](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link)
+- Number of records: 10,000
+- Attributes: Gender, Age, Balance, Tenure, Exited (target variable)
+
+### Data Exploration:
+- Explored the dataset to understand its structure and characteristics.
+- Conducted visualizations to analyze the distribution of variables, identify patterns, and explore relationships between features and the target variable (Exited).
+
+### Preprocessing:
+- Handled missing data by imputing or removing records with missing values.
+- Encoded categorical variables and normalized numerical features to prepare the data for modeling.
+
+### Model and Method:
+- Utilized various machine learning algorithms, including Decision Tree, Random Forest, Logistic Regression, and XGBoost.
+- Selected models based on their suitability for binary classification tasks and ability to handle non-linear relationships and interactions among features.
+
+### Training and Model Evaluation:
+- Trained each model using the training dataset and evaluated its performance on the testing dataset.
+- Tuned model hyperparameters and selected optimal parameters to maximize performance metrics such as accuracy, precision, recall, F1 score, and AUC-ROC.
+
+### Results and Findings:
+- The XGBoost model emerged as the most promising approach, achieving high accuracy, precision, recall, and F1 scores for predicting customer churn.
+- Despite its strong performance, there is still room for improvement, particularly in addressing overfitting and enhancing generalization.
+
+### Visualizations:
+- Included visualizations such as histograms, scatter plots, and ROC curves to illustrate key findings and model performance.
+
+### Conclusion and Learnings:
+- Concluded that the XGBoost model shows promise in predicting customer churn for Bank Beta.
+- Identified challenges such as overfitting and the need for further refinement and optimization.
+- Learned the importance of feature engineering, hyperparameter tuning, and model selection in developing effective predictive models.
+- Next steps include refining the XGBoost model, exploring advanced techniques, and implementing proactive churn prevention strategies based on model insights.
+
+### Source Code:
+The code for the project is available on Google Colab [here](https://colab.research.google.com/drive/1AlrVJsj0y-ZBjw5HbhW9NPt-Ac96l8oa)
+
+---
+
 # Optimizing Gold Recovery Process
 ## Description:
 The project aims to optimize the gold recovery process for Zyfra, a mining company, by leveraging machine learning models to predict gold yield from gold ore. By accurately predicting the concentration of valuable metals at different stages of the processing pipeline, Zyfra can identify key factors influencing gold recovery and optimize its extraction processes accordingly.
