@@ -12,7 +12,7 @@ The project aims to answer several key questions, including:
 - Is there a correlation between critic/user reviews and game sales?
 - Are there significant differences in average user ratings between different platforms or genres?
   
-[Read More](https://github.com/nuryaningsih/nurya_portofolio/blob/main/markdown.md)
+[Read More](https://github.com/nuryaningsih/nurya_portofolio/blob/main/markdown.md#exploring-trends-in-video-game-sales)
 
 ---
 
