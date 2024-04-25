@@ -11,7 +11,7 @@ The project aims to answer several key questions, including:
 - Are there significant differences in average user ratings between different platforms or genres?
 
 ## Dataset:
-- [Dataset](https://drive.google.com/drive/folders/1cDsdsaB9r89tNy4fWhAZawPNtZNUvwMA?usp=drive_link)
+- [Dataset](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link)
 - Size: The dataset contains thousands of records, including information about game titles, platforms, genres, sales figures, critic/user reviews, and ESRB ratings.
 
 ## Data Exploration:
@@ -70,7 +70,54 @@ The project aims to answer several key questions, including:
 The code for the project is available on Google Colab [here](https://colab.research.google.com/drive/1pV3gezPD3bBFq0LmLP0m2usFhCqNAZkE).
 
 ---
+# Insights from Ride-Share Data Analysis
 
+## Project Description
+The project aims to analyze ride-share data from Chicago to gain insights into passenger preferences, market dynamics, and the impact of external factors such as weather on trip duration. By exploring various datasets, including taxi trip data, average trip duration, and weather conditions, the project seeks to provide actionable insights for ride-sharing companies to optimize operations, enhance customer experiences, and improve service efficiency.
+
+## Objectives and Problems
+The main goal of the project is to extract meaningful insights from ride-share data to address several key objectives:
+1. Identify top drop-off locations to understand demand patterns and optimize service coverage.
+2. Analyze taxi company performance to identify market leaders and areas for improvement.
+3. Investigate the impact of weather on trip duration to enhance service reliability and customer satisfaction.
+
+## Dataset
+1. [**Taxi Trip Data:**](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) Includes information about the number of trips associated with each taxi company in Chicago.
+2. [**Average Trip Duration Data:**]((https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link)) Provides details about the average duration of trips from the Loop to O'Hare International Airport.
+3. [**Weather Conditions Data:**](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) Contains data on weather conditions, such as "Good" (non-rainy) and "Bad" (rainy) days.
+
+## Data Exploration
+- Explored taxi trip data to identify top-performing companies and popular drop-off locations.
+- Visualized the distribution of trips among taxi companies and top drop-off locations using bar plots.
+- Examined the average trip duration data to understand trends and patterns in travel times.
+
+## Preprocessing
+- Cleaned outliers from the average trip duration data to ensure the accuracy of the analysis.
+- Categorized weather conditions into "Good" and "Bad" days for further analysis.
+
+## Model and Method
+- Used statistical tests such as Levene's test and independent t-test to compare trip durations between rainy and non-rainy Saturdays.
+- Employed bar plots to visualize the distribution of trips among taxi companies and top drop-off locations.
+
+## Training and Model Evaluation
+- Trained statistical models to compare trip durations under different weather conditions.
+- Evaluated model performance using p-values and statistical significance tests.
+
+## Results and Findings
+1. Identified top drop-off locations, including Loop, River North, and O'Hare Airport, based on average trip volumes.
+2. Flash Cab emerged as the top-performing taxi company, indicating its strong market presence and customer satisfaction.
+3. Rainy weather significantly impacted trip durations, leading to longer travel times from the Loop to O'Hare International Airport on Saturdays.
+
+## Visualizations
+- Bar plots were used to visualize the distribution of trips among taxi companies and top drop-off locations, highlighting key insights from the analysis.
+
+## Conclusion and Learnings
+The project provided valuable insights into passenger preferences, market dynamics, and the impact of weather on trip duration in the ride-sharing industry. Key learnings include the importance of optimizing service coverage, enhancing customer experiences, and adapting operations based on weather forecasts. Future steps may involve further analysis of customer feedback, driver performance metrics, and market trends to drive continuous improvement and innovation in the ride-sharing landscape.
+
+## Source Code
+The code for the project is available on Google Colab here: [Ride-Share Data Analysis](https://colab.research.google.com/drive/1nuPjOVtceFP3VJeMESbZTPb0te5VMldk)
+
+---
 # Optimizing Gold Recovery Process
 ## Description:
 The project aims to optimize the gold recovery process for Zyfra, a mining company, by leveraging machine learning models to predict gold yield from gold ore. By accurately predicting the concentration of valuable metals at different stages of the processing pipeline, Zyfra can identify key factors influencing gold recovery and optimize its extraction processes accordingly.
@@ -79,7 +126,7 @@ The project aims to optimize the gold recovery process for Zyfra, a mining compa
 The primary goal is to develop predictive models that accurately forecast the concentration of gold and other valuable metals during various purification stages. By doing so, Zyfra seeks to improve the efficiency and effectiveness of its gold extraction processes, ultimately maximizing gold recovery rates and minimizing operational costs.
 
 ## Dataset:
-The [dataset](https://drive.google.com/drive/folders/1r45VuaG5XqThRJAMlUs9zYhBWCMxxgHs?usp=drive_link) consists of mineral processing data, including features related to ore composition, process parameters, and metal concentrations at different stages of purification. It comprises both training and test datasets, with information on gold, silver, lead, and other relevant metals.
+The [dataset](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) consists of mineral processing data, including features related to ore composition, process parameters, and metal concentrations at different stages of purification. It comprises both training and test datasets, with information on gold, silver, lead, and other relevant metals.
 
 ## Exploratory Data Analysis (EDA):
 EDA involves exploring the dataset, visualizing key features, and gaining insights into the relationships between variables. This process includes analyzing the distribution of metal concentrations across purification stages, examining the impact of feed particle size on gold recovery, and identifying any anomalies or missing values in the data.
