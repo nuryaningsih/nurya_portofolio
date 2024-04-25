@@ -123,6 +123,44 @@ The project provided valuable insights into passenger preferences, market dynami
 The code for the project is available on Google Colab here: [Ride-Share Data Analysis](https://colab.research.google.com/drive/1nuPjOVtceFP3VJeMESbZTPb0te5VMldk)
 
 ---
+# Telecommunications Plan Analysis
+
+## Project Description:
+The project aims to analyze the usage patterns and revenue generation of users subscribed to two telecommunications plans: Surf and Ultimate. By exploring the dataset, the goal is to gain insights into user behavior, identify any significant differences between the plans, and provide recommendations for optimizing revenue and service offerings.
+
+## Goals and Problems:
+The main objective of the project is to understand the usage patterns and revenue generation of users on different telecommunications plans. The project seeks to answer questions such as:
+- What are the average call duration, message count, and data usage volume for users on each plan?
+- Is there a significant difference in revenue generation between Surf and Ultimate plan users?
+- Are there any regional differences in revenue generation among users?
+
+## Dataset:
+The [dataset](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) contains information about users' usage patterns, plan details, and revenue generation. It includes attributes such as user ID, plan type, call duration, message count, data usage, city, and revenue. The dataset consists of two subsets for the Surf and Ultimate plans, each containing information for multiple users over a certain period.
+
+## Data Exploration:
+Exploratory data analysis involves examining summary statistics, visualizing distributions of usage metrics, and comparing patterns between Surf and Ultimate plan users. Insights such as average usage, variability, and distribution of usage metrics are obtained from the exploration process.
+
+![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/plan_eda.png)
+
+## Preprocessing:
+Preprocessing steps may include handling missing data, normalization, encoding categorical variables, and removing outliers. The goal is to prepare the dataset for modeling and analysis by ensuring data quality and consistency.
+
+## Model and Method:
+The analysis may involve statistical methods such as hypothesis testing (e.g., Independent Samples T-test) to compare revenue between plan types and regions. Additionally, machine learning models or predictive analytics techniques can be used to identify factors influencing revenue generation.
+
+## Training and Model Evaluation:
+The models are trained using relevant features from the dataset, and parameters are selected based on performance metrics such as accuracy, precision, recall, or F1 score. Model evaluation involves assessing performance on validation or test datasets to ensure generalizability.
+
+## Results and Findings:
+The results include insights into usage patterns, revenue generation, and any significant differences between plan types or regions. Visualizations support the findings and provide a clear representation of the analysis outcomes.
+
+## Conclusion and Learning:
+In conclusion, the project provides valuable insights into user behavior, revenue generation, and plan performance for the telecommunications company. Challenges faced during the analysis are discussed, along with lessons learned and recommendations for future steps.
+
+## Source Code:
+If available, a link to the project code repository or location where the code can be accessed is provided for further reference and exploration.
+
+---
 # Optimizing Gold Recovery Process
 ## Description:
 The project aims to optimize the gold recovery process for Zyfra, a mining company, by leveraging machine learning models to predict gold yield from gold ore. By accurately predicting the concentration of valuable metals at different stages of the processing pipeline, Zyfra can identify key factors influencing gold recovery and optimize its extraction processes accordingly.
