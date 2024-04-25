@@ -2,7 +2,8 @@ Hello! Glad to see you here. This is a collection of my personal projects focuse
 
 # Exploring Trends in Video Game Sales
 ## Project Description:
-In this project, we explore a dataset containing information about video game sales from various platforms, genres, and regions. The main goal of the project is to analyze trends in the video game industry over time, understand consumer preferences, and identify factors that contribute to the success of video games.
+In this project, we explore a dataset containing information about video game sales from various platforms, genres, and regions. The main goal of the project is to analyze trends in the video game industry over time, understand consumer preferences, and identify factors that contribute to the success of video games.![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games.png)
+    
 
 ## Objectives and Problem Statement:
 The project aims to answer several key questions, including:
