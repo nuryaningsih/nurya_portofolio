@@ -67,7 +67,7 @@ The project aims to answer several key questions, including:
 - Understanding these trends and preferences is crucial for stakeholders in the gaming industry to make informed decisions and develop successful strategies.
 
 ## Source Code:
-The code for the project is available on GitHub [here](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/5_Identifying_Success_Patterns_in_Video_Games_for_Strategic_Advertising_Campaign_Planning.ipynb).
+The code for the project is available on GitHub [here](https://colab.research.google.com/drive/1pV3gezPD3bBFq0LmLP0m2usFhCqNAZkE).
 
 ---
 
@@ -115,7 +115,7 @@ Visualizations such as histograms, scatter plots, and model performance plots ar
 The project concludes with a summary of key learnings, insights gained, and next steps for further optimization. Challenges faced during the project are discussed, along with potential strategies for improvement and future directions.
 
 ## Source Code:
-The source code for the project can be accessed on GitHub [here](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/10_Predicting_Gold_Extraction_Efficiency_Enhancing_Production_Processes_with_Zyfra_Solutions.ipynb).
+The source code for the project can be accessed on GitHub [here](https://colab.research.google.com/drive/14S6oRRQ28eu5xxGnnfr2IDazTGPgDIDb).
 
 ---
 
@@ -159,4 +159,4 @@ Visualizations such as ROC curves, confusion matrices, and feature importance pl
 In conclusion, the project successfully developed a predictive model for customer churn prediction in the telecommunications company. By leveraging machine learning techniques, valuable insights were gained into factors influencing churn, and an effective model was built to forecast customer behavior. Challenges faced during the project included handling imbalanced data, optimizing model parameters, and interpreting complex ensemble models. Moving forward, the company can utilize the developed model to implement targeted customer retention strategies and improve overall business outcomes.
 
 ## Source Code:
-The source code for this project can be accessed on GitHub at [this link](https://github.com/nuryaningsih/CodeCraftedAtTripleTen/blob/main/Predicting_and_Mitigating_Customer_Churn_at_Interconnect_Data_Driven_Strategies_for_Enhanced_Client_Retention.ipynb).
+The source code for this project can be accessed on GitHub at [this link](https://colab.research.google.com/drive/1f8xEsndP6XpD9v9lkCP5_1mQzf2O49t8).
