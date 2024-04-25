@@ -74,7 +74,6 @@ The code for the project is available on GitHub [here](https://github.com/nuryan
 ---
 
 # Optimizing Gold Recovery Process
-
 ## Description:
 The project aims to optimize the gold recovery process for Zyfra, a mining company, by leveraging machine learning models to predict gold yield from gold ore. By accurately predicting the concentration of valuable metals at different stages of the processing pipeline, Zyfra can identify key factors influencing gold recovery and optimize its extraction processes accordingly.
 
@@ -123,7 +122,6 @@ The source code for the project can be accessed on GitHub [here](https://github.
 ---
 
 # Predicting Customer Churn in Telecommunications
-
 ## Project Description:
 This project aims to develop a machine learning model to predict customer churn in a telecommunications company. Customer churn refers to the phenomenon where customers terminate their subscription or service with the company. The primary goal of this project is to identify factors influencing churn and build a predictive model that can accurately forecast which customers are likely to churn in the future. By doing so, the company can take proactive measures to retain at-risk customers and improve overall customer satisfaction.
 
