@@ -28,18 +28,18 @@ The project aims to answer several key questions, including:
 ## Model and Method:
 - Exploratory data analysis (EDA): Utilizing descriptive statistics and visualization techniques to gain insights into the data.
   - Video Game Releases Over Time:
-    ![Games EDA 1](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/games_eda_1.png)
+    ![Games EDA 1](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games_eda_1.png)
     - The analysis of video game releases over the years revealed a gradual increase followed by a peak around 2008, indicating the industry's evolution and growth. The recent decline in releases suggested a shift towards digital distribution and mobile gaming, impacting market dynamics.
   - Platform Sales Trends:
-    ![Games EDA 2.1](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/games_eda_2_1.png)
-    ![Games EDA 2.2](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/games_eda_2_2.png)
+    ![Games EDA 2.1](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games_eda_2_1.png)
+    ![Games EDA 2.2](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games_eda_2_2.png)
     - Insights into the lifecycle of gaming platforms underscored the industry's continuous evolution and the rise and fall of different platforms.
   - Genre Sales Analysis:
-    ![Games EDA 3](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/games_eda_3.png)
+    ![Games EDA 3](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games_eda_3.png)
     - Genre sales analysis identified Action, Shooter, Role-Playing, and Sports genres as consistent performers globally, catering to diverse gaming audiences.
   - Regional Variations in Platform and Genre Preferences:
-    ![Games EDA 4.1](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/games_eda_4_1.PNG)
-    ![Games EDA 4.2](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/games_eda_4_2.PNG)
+    ![Games EDA 4.1](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games_eda_4_1.PNG)
+    ![Games EDA 4.2](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/games_eda_4_2.PNG)
     - The exploration of platform and genre preferences across different regions showcased regional variations in gaming preferences and market dynamics. North America and Europe favored consoles like Xbox and PlayStation, while Japan preferred handheld consoles like Nintendo 3DS.
 
 - Correlation analysis: Calculating correlation coefficients to measure the relationship between variables.
@@ -80,11 +80,11 @@ The [dataset](https://drive.google.com/drive/folders/1r45VuaG5XqThRJAMlUs9zYhBWC
 EDA involves exploring the dataset, visualizing key features, and gaining insights into the relationships between variables. This process includes analyzing the distribution of metal concentrations across purification stages, examining the impact of feed particle size on gold recovery, and identifying any anomalies or missing values in the data.
 
 - Metal Concentration Trends Across Purification Stages
-  ![Gold EDA](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/gold_eda.png)
+  ![Gold EDA](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/gold_eda.png)
 - Impact of Feed Particle Size on Gold Recovery
-  ![Gold EDA 1](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/gold_eda_1.png)
+  ![Gold EDA 1](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/gold_eda_1.png)
 - Identification of Abnormal Total Substance Concentrations
-  ![Gold EDA 2](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/gold_eda_2.png)
+  ![Gold EDA 2](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/gold_eda_2.png)
 
 ## Preprocessing:
 Preprocessing steps include handling missing values, removing outliers, and normalizing or scaling features as necessary. Additionally, categorical variables may be encoded for model compatibility, and the dataset may be split into training and test sets for model evaluation.
@@ -124,9 +124,9 @@ The dataset used in this project is sourced from the telecommunications company'
 The data exploration phase involved examining the dataset's structure, checking for missing values, and gaining insights into the distribution of key variables. Exploratory data analysis (EDA) techniques such as summary statistics, histograms, and correlation analysis were employed to understand the relationships between different features and the target variable (churn status).
 
 - Customer Churn Distribution
-  ![Churn EDA](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/curn_eda.png)
+  ![Churn EDA](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/curn_eda.png)
 - Customer Segmentation
-  ![Churn EDA 1](https://raw.githubusercontent.com/nuryaningsih/Nury_Portofolio/main/images/curn_eda_1.png)
+  ![Churn EDA 1](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/curn_eda_1.PNG)
 
 ## Preprocessing:
 Preprocessing steps included handling missing values, encoding categorical variables, and scaling numerical features if necessary. Missing data were either imputed or dropped depending on the extent of missingness. Categorical variables were encoded using techniques like one-hot encoding or label encoding to prepare them for model training.
