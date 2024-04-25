@@ -23,7 +23,7 @@ The project aims to optimize the gold recovery process for Zyfra, a mining compa
 ## Objective and Problem:
 The primary goal is to develop predictive models that accurately forecast the concentration of gold and other valuable metals during various purification stages. By doing so, Zyfra seeks to improve the efficiency and effectiveness of its gold extraction processes, ultimately maximizing gold recovery rates and minimizing operational costs.
 
-[Read More](https://github.com/nuryaningsih/nurya_portofolio/blob/main/markdown.md)
+[Read More](https://github.com/nuryaningsih/nurya_portofolio/blob/main/markdown.md#Optimizing-Gold-Recovery-Process).
 
 ---
 
@@ -34,5 +34,5 @@ This project aims to develop a machine learning model to predict customer churn 
 ## Objectives and Problem Statement:
 The main objective of this project is to develop a predictive model that can accurately identify customers at risk of churning. The problem statement revolves around understanding the key factors driving customer churn and leveraging this insight to implement targeted retention strategies. By predicting churn in advance, the company can take appropriate actions, such as offering incentives, personalized promotions, or improving service quality, to retain valuable customers.
 
-[Read More](https://github.com/nuryaningsih/nurya_portofolio/blob/main/markdown.md)
+[Read More](https://github.com/nuryaningsih/nurya_portofolio/blob/main/markdown.md#Predicting-Customer-Churn-in-Telecommunications)
 
