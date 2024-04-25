@@ -120,7 +120,7 @@ The main goal of the project is to extract meaningful insights from ride-share d
 The project provided valuable insights into passenger preferences, market dynamics, and the impact of weather on trip duration in the ride-sharing industry. Key learnings include the importance of optimizing service coverage, enhancing customer experiences, and adapting operations based on weather forecasts. Future steps may involve further analysis of customer feedback, driver performance metrics, and market trends to drive continuous improvement and innovation in the ride-sharing landscape.
 
 ## Source Code
-The code for the project is available on Google Colab here: [Ride-Share Data Analysis](https://colab.research.google.com/drive/1nuPjOVtceFP3VJeMESbZTPb0te5VMldk)
+The code for the project is available on Google Colab [here](https://colab.research.google.com/drive/1nuPjOVtceFP3VJeMESbZTPb0te5VMldk)
 
 ---
 # Telecommunications Plan Analysis
@@ -158,7 +158,7 @@ The results include insights into usage patterns, revenue generation, and any si
 In conclusion, the project provides valuable insights into user behavior, revenue generation, and plan performance for the telecommunications company. Challenges faced during the analysis are discussed, along with lessons learned and recommendations for future steps.
 
 ## Source Code:
-If available, a link to the project code repository or location where the code can be accessed is provided for further reference and exploration.
+The code for the project is available on Google Colab [here](https://colab.research.google.com/drive/1PuTI643N5dELZDpM3ctF_k19C0b9NdBI#scrollTo=qeguC0oSm9R7).
 
 ---
 # Optimizing Gold Recovery Process
