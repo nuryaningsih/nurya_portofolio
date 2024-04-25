@@ -83,13 +83,18 @@ The main goal of the project is to extract meaningful insights from ride-share d
 
 ## Dataset
 1. [**Taxi Trip Data:**](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) Includes information about the number of trips associated with each taxi company in Chicago.
-2. [**Average Trip Duration Data:**]((https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link)) Provides details about the average duration of trips from the Loop to O'Hare International Airport.
+2. [**Average Trip Duration Data:**](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) Provides details about the average duration of trips from the Loop to O'Hare International Airport.
 3. [**Weather Conditions Data:**](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) Contains data on weather conditions, such as "Good" (non-rainy) and "Bad" (rainy) days.
 
 ## Data Exploration
 - Explored taxi trip data to identify top-performing companies and popular drop-off locations.
 - Visualized the distribution of trips among taxi companies and top drop-off locations using bar plots.
+
+  ![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/ride_eda_1.png)
+  
 - Examined the average trip duration data to understand trends and patterns in travel times.
+
+  ![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/ride_eda.png)
 
 ## Preprocessing
 - Cleaned outliers from the average trip duration data to ensure the accuracy of the analysis.
