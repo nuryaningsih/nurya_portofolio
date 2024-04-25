@@ -208,7 +208,45 @@ The main objective of this project is to build a predictive model with a high F1
 The code for the project is available on Google Colab [here](https://colab.research.google.com/drive/1AlrVJsj0y-ZBjw5HbhW9NPt-Ac96l8oa)
 
 ---
+# Optimizing Oil Well Selection for OilyGiant Mining Company
 
+## Description:
+This project aims to assist OilyGiant Mining Company in identifying the most profitable region for the development of 200 new oil wells. By leveraging predictive modeling and data-driven insights, the project seeks to optimize resource allocation and maximize profitability in oil well development operations.
+
+## Objectives and Problem Statement:
+The primary goal of this project is to identify the region with the highest profit potential for the development of new oil wells. The key problem to solve is to accurately predict oil reserves in different regions based on geological features and historical production data. This will enable OilyGiant Mining Company to prioritize investments and minimize financial risks associated with oil well development.
+
+## Dataset:
+The [dataset](https://drive.google.com/drive/folders/1gdFv0Qaty0ibmUJRLoU9FHqEFXn3R-Sa?usp=drive_link) used in this project consists of three datasets representing different regions. Each dataset contains attributes such as geological features ('f0', 'f1', 'f2') and the volume of oil reserves ('product'). The datasets are sourced internally from OilyGiant Mining Company and comprise 100,000 entries each.
+
+## Data Exploration:
+Data exploration involved analyzing the distributions of features, visualizing correlations, and gaining insights into the characteristics of each region's oil reserves. Pair plots and correlation heatmaps were created to understand the relationships between features and target variables.
+
+![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/oil_eda.png)
+
+![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/oil_eda_1.png)
+
+![](https://raw.githubusercontent.com/nuryaningsih/nurya_portofolio/main/images/oil_eda_2.png)
+
+## Preprocessing:
+Preprocessing steps included removing irrelevant columns (e.g., 'id'), handling missing values, and scaling numerical features. Additionally, the dataset was split into training and validation sets for model training and evaluation.
+
+## Model and Methods:
+Linear Regression models were employed for predicting oil reserves in each region due to their simplicity and interpretability. These models were chosen for their ability to capture linear relationships between features and target variables.
+
+## Model Training and Evaluation:
+The models were trained using training data and evaluated using performance metrics such as RMSE (Root Mean Squared Error) and MAPE (Mean Absolute Percentage Error) on both training and validation sets. The average predicted oil volume was also calculated to estimate the overall reserves in each region.
+
+## Results and Findings:
+The analysis revealed varying levels of predictive accuracy across the three regions. Data 1 exhibited the best performance with the lowest RMSE and MAPE values, indicating higher predictive accuracy compared to Data 0 and Data 2. Insights were drawn regarding the geological features that contribute to oil reserve predictions.
+
+## Visualizations:
+Visualizations such as pair plots and correlation heatmaps were utilized to highlight the relationships between features and target variables. Additionally, bar charts were used to visualize profit estimates and risk analysis results for each region.
+
+## Conclusion and Learnings:
+In conclusion, the project provided valuable insights into the profitability and risk associated with oil well development in different regions. The main learning from the project includes the importance of accurate predictive modeling and thorough data analysis in making informed decisions. Moving forward, further refinement of predictive models and ongoing monitoring of oil well performance will be essential for maximizing profitability and minimizing risks.
+
+---
 # Optimizing Gold Recovery Process
 ## Description:
 The project aims to optimize the gold recovery process for Zyfra, a mining company, by leveraging machine learning models to predict gold yield from gold ore. By accurately predicting the concentration of valuable metals at different stages of the processing pipeline, Zyfra can identify key factors influencing gold recovery and optimize its extraction processes accordingly.
