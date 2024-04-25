@@ -109,7 +109,7 @@ The source code for the project can be accessed on GitHub [here](https://github.
 
 ---
 
-# [Portfolio Project: Predicting Customer Churn in Telecommunications]
+# Portfolio Project: Predicting Customer Churn in Telecommunications
 
 ## Project Description:
 This project aims to develop a machine learning model to predict customer churn in a telecommunications company. Customer churn refers to the phenomenon where customers terminate their subscription or service with the company. The primary goal of this project is to identify factors influencing churn and build a predictive model that can accurately forecast which customers are likely to churn in the future. By doing so, the company can take proactive measures to retain at-risk customers and improve overall customer satisfaction.
